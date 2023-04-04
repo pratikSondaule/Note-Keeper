@@ -28,12 +28,3 @@ Or
 
 ### `nodemon app.js`
 
-## Tools used
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- EJS
-- Node JS
-- Express JS
